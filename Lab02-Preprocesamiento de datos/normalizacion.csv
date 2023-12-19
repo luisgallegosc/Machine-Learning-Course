@@ -1,0 +1,50 @@
+MONTO.CREDITO,SUELDO,SEXO,ESTADO.CIVIL,DEUDA,CAPITAL.BIENES,GARANTE,DISTRITO,EDAD
+30000,>= 5000,F,Divorciado,<= 1000,4050,No,San Sebastian,61
+100000,>= 5000,F,Viudo,> 1000 Y < 5000,2590,No,Wanchaq,27
+30000,>= 5000,M,Casado,>= 5000,6507,No,San Jeronimo,56
+70000,>= 5000,M,Viudo,<= 1000,2587,No,Wanchaq,58
+10000,>= 500 y < 2000,F,Divorciado,<= 1000,NA,Si,Wanchaq,NA
+10000,NA,F,Divorciado,>= 5000,14965,No,San Jeronimo,37
+50000,>= 2000 y < 5000,M,Viudo,> 1000 Y < 5000,8724,No,Poroy,41
+70000,< 500,F,Casado,>= 5000,6785,No,NA,42
+30000,>= 5000,M,Casado,> 1000 Y < 5000,4860,No,Wanchaq,43
+70000,< 500,F,NA,>= 5000,5050,No,Saylla,36
+30000,>= 500 y < 2000,F,Casado,<= 1000,4304,No,Saylla,37
+10000,>= 5000,M,Casado,<= 1000,NA,No,Wanchaq,64
+50000,< 500,M,Soltero,<= 1000,5318,No,San Jeronimo,68
+50000,>= 5000,M,Casado,>= 5000,8887,No,Santiago,50
+100000,>= 500 y < 2000,M,Divorciado,>= 5000,2920,No,Saylla,42
+60000,< 500,F,Divorciado,<= 1000,2428,No,San Sebastian,26
+20000,< 500,M,Soltero,<= 1000,4323,No,Cusco,47
+30000,>= 2000 y < 5000,M,Casado,<= 1000,9611,No,Cusco,64
+40000,>= 2000 y < 5000,M,Casado,> 1000 Y < 5000,10338,No,Santiago,32
+80000,>= 500 y < 2000,M,Soltero,<= 1000,9373,No,Cusco,58
+60000,>= 5000,M,Viudo,>= 5000,4163,No,Poroy,39
+30000,< 500,M,Viudo,> 1000 Y < 5000,13689,Si,Saylla,61
+70000,NA,F,Viudo,>= 5000,7003,No,Wanchaq,42
+40000,>= 2000 y < 5000,M,Soltero,<= 1000,8078,No,San Sebastian,53
+30000,>= 5000,M,Soltero,<= 1000,9076,Si,San Sebastian,31
+10000,>= 5000,F,Divorciado,>= 5000,2435,Si,Poroy,50
+50000,>= 2000 y < 5000,M,Casado,>= 5000,10877,Si,NA,NA
+40000,>= 500 y < 2000,M,Casado,<= 1000,12818,Si,San Jeronimo,26
+30000,< 500,M,Casado,NA,3287,No,San Jeronimo,39
+60000,>= 2000 y < 5000,F,Divorciado,<= 1000,9337,No,Wanchaq,30
+100000,>= 5000,M,Casado,> 1000 Y < 5000,10787,Si,San Jeronimo,34
+80000,< 500,M,Viudo,> 1000 Y < 5000,4378,No,Poroy,62
+30000,< 500,M,Soltero,> 1000 Y < 5000,5202,No,San Jeronimo,49
+80000,>= 500 y < 2000,M,Viudo,<= 1000,8015,Si,Poroy,46
+70000,>= 500 y < 2000,M,Casado,<= 1000,13858,No,Wanchaq,39
+50000,< 500,F,Viudo,>= 5000,14274,No,San Sebastian,44
+NA,>= 2000 y < 5000,M,Divorciado,<= 1000,2859,Si,Poroy,31
+20000,>= 5000,F,Viudo,> 1000 Y < 5000,8351,No,San Jeronimo,52
+100000,>= 2000 y < 5000,M,Soltero,>= 5000,7553,No,Santiago,29
+10000,>= 2000 y < 5000,M,Viudo,<= 1000,7636,No,Poroy,26
+90000,NA,M,Casado,<= 1000,NA,No,Cusco,27
+100000,< 500,F,Divorciado,>= 5000,1549,No,San Sebastian,31
+50000,>= 500 y < 2000,F,Casado,> 1000 Y < 5000,7922,Si,Poroy,42
+100000,>= 500 y < 2000,M,Divorciado,<= 1000,7766,No,Poroy,46
+50000,>= 5000,M,Soltero,> 1000 Y < 5000,8766,No,Cusco,54
+60000,>= 5000,M,Casado,>= 5000,4861,No,San Jeronimo,38
+80000,>= 2000 y < 5000,M,Casado,>= 5000,3369,Si,Cusco,37
+60000,< 500,M,Casado,>= 5000,14843,No,Saylla,55
+100000,< 500,M,Soltero,> 1000 Y < 5000,3436,Si,Santiago,59
